@@ -1,0 +1,11 @@
+{
+  "path": "es-ce",
+  "code": "ES-CE",
+  "name": "Ceuta",
+  "level": "autonomous city",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-ceuta-law",
+  "build": "built: statute of autonomy (1 norms, 1 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
